@@ -1,4 +1,4 @@
-# HIV Detection and Quantification Using Novel Metagenomic Sequencing Protocol
+# Optimisation and Validation of a Metagenomic-Based Sequencing Protocol for HIV Viral Load Quantification Using Mengovirus as an Internal Control.
 
 This project evaluates the efficacy of a novel metagenomic sequencing protocol for HIV detection and quantification. By integrating qPCR data with next-generation sequencing (NGS) metrics, this work aims to improve the accuracy of viral load estimations from clinical samples.
 
