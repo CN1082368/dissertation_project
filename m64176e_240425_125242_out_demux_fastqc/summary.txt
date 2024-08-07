@@ -1,0 +1,10 @@
+PASS	Basic Statistics	m64176e_240425_125242_out_demux.fastq.gz
+PASS	Per base sequence quality	m64176e_240425_125242_out_demux.fastq.gz
+PASS	Per sequence quality scores	m64176e_240425_125242_out_demux.fastq.gz
+FAIL	Per base sequence content	m64176e_240425_125242_out_demux.fastq.gz
+WARN	Per sequence GC content	m64176e_240425_125242_out_demux.fastq.gz
+PASS	Per base N content	m64176e_240425_125242_out_demux.fastq.gz
+WARN	Sequence Length Distribution	m64176e_240425_125242_out_demux.fastq.gz
+PASS	Sequence Duplication Levels	m64176e_240425_125242_out_demux.fastq.gz
+WARN	Overrepresented sequences	m64176e_240425_125242_out_demux.fastq.gz
+PASS	Adapter Content	m64176e_240425_125242_out_demux.fastq.gz
